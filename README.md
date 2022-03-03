@@ -21,8 +21,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Hello World:** https://bit.ly/354evhL
-
+* **Análise dos Dados do Airbnb - Irlanda:**https://bit.ly/3IEULQw
 ---
 
 
