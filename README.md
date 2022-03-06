@@ -20,7 +20,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 ## Projetos:
 
-* **Análise dos Dados do Airbnb - Irlanda:** https://bit.ly/36XDhRs
+* **Análise dos Dados do Airbnb - Irlanda:** https://bit.ly/3CiLjQh
 ---
 
 
