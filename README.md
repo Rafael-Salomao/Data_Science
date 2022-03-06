@@ -5,13 +5,19 @@
 </p>
 
 # Rafael Salomão Domingos
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Sales Operations - Order Managment* at GE Healthcare</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Industrial Engineering student in the end of the course. 
+Working as a Sales Operations in Health Care industry. 
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+My expertise includes work in a busy environment, good communication and adaptable. 
+I enjoy generating new ideas and devising feasible solutions to broadly relevant problems.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+My colleagues would describe me as a ownership behavior, resourceful individual who maintains a positive, proactive attitude when faced with adversity.
+
+I constantly seek challenges that allow me to develop and promote my management and communication skills.
+
+**Background in:** Python, Machine Learning, Sales Operations and Inventory Managment.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/)
