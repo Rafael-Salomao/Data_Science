@@ -26,7 +26,7 @@ I constantly seek challenges that allow me to develop and promote my management 
 
 ## Projetos:
 
-* **Análise dos Dados do Airbnb - Irlanda:** https://bit.ly/3CiLjQh
+* **Análise dos Dados do Airbnb - Irlanda:** https://bit.ly/37Nnoxd
 ---
 
 
