@@ -17,7 +17,7 @@ My colleagues would describe me as a ownership behavior, resourceful individual 
 
 I constantly seek challenges that allow me to develop and promote my management and communication skills.
 
-**Background in:** Python, Machine Learning, Sales Operations and Inventory Managment.
+**Background in:** Python, Sales Operations and Inventory Managment.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/)
