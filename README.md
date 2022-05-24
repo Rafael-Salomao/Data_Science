@@ -26,8 +26,8 @@ I constantly seek challenges that allow me to develop and promote my management 
 
 ## Projetos:
 
-* **Análise dos Dados do Airbnb - Irlanda:** https://bit.ly/37Nnoxd #pandas #dataanalytics
-* **Panorama do COVID-19 no Mundo:** https://bit.ly/3PIDc5M #matplotlib #plotly #datavisualization
+* **Análise dos Dados do Airbnb - Irlanda:** https://bit.ly/37Nnoxd #Pandas #DataAnalytics
+* **Panorama do COVID-19 no Mundo:** https://bit.ly/3PIDc5M #MatPlotLib #Plotly #DataVisualization
 ---
 
 
