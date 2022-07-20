@@ -21,7 +21,7 @@ I constantly seek challenges that allow me to develop and promote my management 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@rafael.salomaod96)
 
 
 ## Projetos:
