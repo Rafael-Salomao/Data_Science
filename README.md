@@ -7,7 +7,7 @@
 # Rafael Salomão Domingos
 <sub>*Sales Operations - Order Managment* at GE Healthcare</sub>
 
-Industrial Engineering student in the end of the course. 
+Industrial Engineering. 
 Working as a Sales Operations in Health Care industry. 
 
 My expertise includes work in a busy environment, good communication and adaptable. 
