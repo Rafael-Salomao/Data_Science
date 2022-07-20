@@ -28,6 +28,7 @@ I constantly seek challenges that allow me to develop and promote my management 
 
 * **Análise dos Dados do Airbnb - Irlanda:** https://bit.ly/37Nnoxd #Pandas #DataAnalytics
 * **Panorama do COVID-19 no Mundo:** https://bit.ly/3PIDc5M #MatPlotLib #Plotly #DataVisualization
+* **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3B2tWVi #Classification #LogisticRegression #UnderSampling
 ---
 
 
